@@ -1,4 +1,8 @@
-## Hi there 👋
+My name is Hezron Maleya currently pursuing programming as a course 
+At the end of the program I'm looking forward to Master the taught languages and and be able to develop a system of my own 
+Currently the languages taught include JavaScript Css html 
+Currently I'm not doing any projects but I'm soon to start 
+To reach me you can use my email: karuarestanley@gmail.com 
 
 <!--
 **I-STANLEY-ai/I-STANLEY-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
