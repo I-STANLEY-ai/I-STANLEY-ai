@@ -7,7 +7,7 @@ Web developer and Designer
 I've been learning how to code since last year looking for a way to solve problems in programming
 
 *   🌍  I'm based in Kenya, Nairobi
-*   ✉️  You can contact me at [karuarestanley@gmail.com](mailto:karuarestanley@gmail.com)
+*   ✉️  You can contact me at hezronmaleya23@gmail.com
 *   🧠  I'm learning Front end web development
 *   🤝  I'm open to collaborating on Creating website... Let's work together
 *   ⚡  Call me spider when we meet😅<a href="https://www.github.com/I-STANLEY-ai" target="_blank" rel="noreferrer"><img
